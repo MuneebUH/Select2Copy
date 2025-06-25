@@ -33,20 +33,3 @@ The extension only uses the **minimum required permissions**:
 
 ---
 
-## 👁️ Transparency
-
-We believe in **total transparency**.  
-If we ever add features that involve data collection in the future, this policy will be updated and made visible to all users.
-
----
-
-## 📬 Contact
-
-Have questions or feedback? Reach out at [your email or contact form link].
-
----
-
-## ✅ Hosting It
-
-Save this as a public webpage (e.g., on **GitHub Pages**, **Notion**, or a simple static site).  
-Then link it in the **“Privacy Policy”** field in the Chrome Web Store dashboard.
